@@ -1,6 +1,6 @@
 # [Hey! I'm Prathmesh Soni](https://prathmeshsoni.works/) 👨‍💻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprathmeshsoni&count_bg=%23007BFF&title_bg=%232F4F4F&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://prathmeshsoni.works)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoniprathmesh&count_bg=%23007BFF&title_bg=%232F4F4F&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://prathmeshsoni.works)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prathmeshsoni/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/prathmeshsoni25/)](https://www.instagram.com/prathmeshsoni25)
