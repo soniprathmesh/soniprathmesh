@@ -33,7 +33,7 @@
   <a href="https://github.com/PrathmeshSoni?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icons-badges.vercel.app/github/followers/?username=soniprathmesh"/></a>
   <a href="https://github.com/PrathmeshSoni/">
-    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.prathmeshsoni.works/github/visitors"/></a>
+    <img alt="views" title="GitHub profile views" src="https://custom-icons-badges.vercel.app/github/visitors/?username=prathmeshsoni"/></a>
 </p>
 
 <br/>
