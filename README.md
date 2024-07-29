@@ -29,9 +29,9 @@
 <!-- Social badges section- https://github.com/prathmeshsoni/Custom-Icon-Badges -->
 <p align="center">
   <a href="https://github.com/PrathmeshSoni?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.prathmeshsoni.works/github/stars/?username=soniprathmesh"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icons-badges.vercel.app/github/stars/?username=prathmeshsoni"/></a>
   <a href="https://github.com/PrathmeshSoni?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.prathmeshsoni.works/github/followers/?username=soniprathmesh"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icons-badges.vercel.app/github/followers/?username=soniprathmesh"/></a>
   <a href="https://github.com/PrathmeshSoni/">
     <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.prathmeshsoni.works/github/visitors"/></a>
 </p>
