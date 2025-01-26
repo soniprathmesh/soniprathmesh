@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://prathmeshsoni.works/">
+  <a href="https://soniprathmesh.com/">
         <img src="https://readme-typing-svg.demolab.com/?lines=Hey!%20I'm%20Prathmesh%20Soni&font=Fira%20Code&repeat=false&center=true&width=450&height=45&color=70a5fd&vCenter=true&pause=1000&size=28&duration=1" />
   </a>
 </p>
@@ -11,7 +11,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/PrathmeshSoni/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin/70a5fd"/></a>
+  <a href="https://www.linkedin.com/in/PrathmeshSoni/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/SoniPrathmesh"><img width="32px" alt="Github" title="Github" src="https://cdn.simpleicons.org/github/70a5fd"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -21,7 +21,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:connect.prathmeshsoni@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://cdn.simpleicons.org/gmail/70a5fd"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://prathmeshsoni.works/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://cdn.simpleicons.org/googlechrome/70a5fd"/></a>
+  <a href="https://soniprathmesh.com/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://cdn.simpleicons.org/googlechrome/70a5fd"/></a>
 </p>
 
 <br/>
@@ -47,11 +47,11 @@
   
 - 🐍 Python Developer skilled in Web/Data Scraping and Selenium automation.
 - 🌐 Experienced with Django framework for web development.
-- 🎓 I’m currently in the third year of pursuing BTech in Computer Science Engineering with a focus on AI and ML.
+- 🎓 I’m currently in the final year of pursuing BE in Computer Science Engineering with a focus on AI and ML.
 - 🔥 Passionate about pushing boundaries and finding innovative solutions.
 - 🤝 Thrives on collaborating with diverse teams for efficient goal achievement.
   
-Check out one of my Django projects [here](https://prathmeshsoni.works/project/) 👈.  
+Check out one of my Django projects [here](https://soniprathmesh.com/project/) 👈.  
 
 </details>
 
@@ -131,7 +131,7 @@ ecc
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/PrathmeshSoni">
-      <img title="PrathmeshSoni's Streak 🔥" alt="PrathmeshSoni's Streak 🔥" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathmeshSoni&theme=tokyonight"/>
+      <img title="PrathmeshSoni's Streak 🔥" alt="PrathmeshSoni's Streak 🔥" src="https://nirzak-streak-stats.vercel.app/?user=SoniPrathmesh&theme=tokyonight"/>
     </a>
   </p>
 
